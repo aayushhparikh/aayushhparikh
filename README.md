@@ -1,9 +1,7 @@
 # Hey! I'm Aayush
 ### Hello, it's a pleasure to meet you, I'm currently a fourth-year software engineering student at Ontario Tech University
 
-# Feel free to reach out with me through
-
-![Profile views](https://gpvc.arturio.dev/aayushhparikh)
+![Profile views]((https://visitor-badge.laobi.icu/badge?page_id=/aayushhparikh)
 
 
 
