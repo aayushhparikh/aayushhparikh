@@ -1,7 +1,7 @@
-#Hey! I'm Aayush
-###Hello, it's a pleasure to meet you, I'm currently a fourth-year software engineering student at Ontario Tech University
+# Hey! I'm Aayush
+### Hello, it's a pleasure to meet you, I'm currently a fourth-year software engineering student at Ontario Tech University
 
-#Feel free to reach out with me through
+# Feel free to reach out with me through
 
 ![Profile views](https://gpvc.arturio.dev/aayushhparikh)
 
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Github Stats
+# Github Stats
 
 [![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushhparikh)](https://github.com/aayushhparikh/github-readme-stats)
