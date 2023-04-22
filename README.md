@@ -1,13 +1,8 @@
 # Hey! I'm Aayush
 ### Hello, it's a pleasure to meet you, I'm currently a fourth-year software engineering student at Ontario Tech University
 
-<a href="https://www.linkedin.com/in/aayush-p/">
-  <img align="left" alt="Aayush's LinkdeIn" width="22px" src="https://icons8.com/icon/21088/linkedin" />
-</a>
-<br />
-<br />
-
-![Profile views](https://gpvc.arturio.dev/aayushhparikh)
+[![Gmail Badge](https://img.shields.io/badge/aayush.b.parikh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aayush.b.parikh@gmail.com)](mailto:aayush.b.parikh@gmail.com)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aayushhparikh)
 
 
 
