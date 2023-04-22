@@ -1,6 +1,12 @@
 # Hey! I'm Aayush
 ### Hello, it's a pleasure to meet you, I'm currently a fourth-year software engineering student at Ontario Tech University
 
+<a href="https://www.linkedin.com/in/aayush-p/">
+  <img align="left" alt="Aayush's LinkdeIn" width="22px" src="(https://icons8.com/icon/21088/linkedin)" />
+</a>
+<br />
+<br />
+
 ![Profile views](https://gpvc.arturio.dev/aayushhparikh)
 
 
